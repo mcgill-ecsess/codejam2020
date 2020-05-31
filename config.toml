@@ -1,0 +1,43 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "McGill CodeJam 2020"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Welcome to the 10th annual hackathon run by the McGill Electrical, Computer, and Software Student Society (ECSESS)."
+    meta_og_title = "McGill CodeJam.(2020)"
+    meta_og_type = "website"
+    meta_og_url = ""
+    meta_og_image = ""
+    meta_og_description = "Welcome to the 10th annual hackathon run by the McGill Electrical, Computer, and Software Student Society (ECSESS)."
+    meta_twitter_card = "summary"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+[[menu.main]]
+	name = "FAQs"
+	url = "/services/"
+    weight = 2
+
+[[menu.main]]
+    name = "Sponsors"
+    url = "/work/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
