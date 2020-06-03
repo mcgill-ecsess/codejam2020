@@ -5576,8 +5576,8 @@ ol {
       display: block;
       width: 120px; } }
   .logo img {
-    width: 100%;
-    height: auto; }
+    width: auto;
+    height: 100%; }
   .logo a {
     display: block;
     width: 100%;
@@ -5591,8 +5591,8 @@ ol {
     .logo-mobile {
       display: none; } }
   .logo-mobile img {
-    width: 100%;
-    height: auto; }
+    width: auto;
+    height: 100%; }
   .logo-mobile a {
     display: block;
     width: 100%;
