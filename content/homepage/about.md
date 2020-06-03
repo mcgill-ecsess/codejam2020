@@ -6,4 +6,4 @@ button: 'Sponsor Us'
 buttonLink: 'about'
 ---
 
-We are currently seeking sponsors to partner with! 🚀
+We're seeking sponsors to partner with! 🚀
