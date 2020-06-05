@@ -1,5 +1,7 @@
 # 🚧 WIP - CodeJam 2020 Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd322647-8ba4-4e9f-a569-18c02e887bfb/deploy-status)](https://app.netlify.com/sites/codejam2020/deploys)
+
 This is the website for McGill CodeJam.(2020), [deployed to Netlify](https://codejam2020.netlify.app).
 
 The `hugo` base theme is [Hero](https://themes.gohugo.io/hugo-hero-theme).
