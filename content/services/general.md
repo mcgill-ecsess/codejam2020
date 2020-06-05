@@ -1,18 +1,17 @@
 ---
-title: 'Accounting'
+title: 'General'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
+icon: ''
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'General'
+heroSubHeading: 'General questions about CodeJam.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Are total beginners welcome? How many people can be in a team? Do I have
+to be a student at McGill? How old is CodeJam? How many people attend CodeJam?
 
 ## Ne verba patulosque numen vix libet
 
