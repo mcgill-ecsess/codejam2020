@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://codejam2020.netlify.app/"
 languageCode = "en-us"
 title = "McGill CodeJam 2020"
 themesDir = "themes"
