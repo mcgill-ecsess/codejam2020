@@ -9,7 +9,7 @@ theme = "hugo-hero-theme"
 
   [params.homepage_meta_tags]
     meta_description = "Welcome to the 10th annual hackathon run by the McGill Electrical, Computer, and Software Student Society (ECSESS)."
-    meta_og_title = "McGill CodeJam.(2020)"
+    meta_og_title = "McGill CodeJam 2020"
     meta_og_type = "website"
     meta_og_url = ""
     meta_og_image = ""
