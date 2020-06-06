@@ -3,7 +3,7 @@ title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'aboutlayout'
 heroHeading: 'About Us'
-heroSubHeading: "We've been supporting students since 2010. Celebrate 10 years of learning with us!"
+heroSubHeading: "We've been supporting students since 2010. Join us in celebrating 10 years of learning!"
 heroBackground: 'images/codejam2.jpg'
 ---
 
