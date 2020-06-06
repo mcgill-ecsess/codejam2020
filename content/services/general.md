@@ -7,7 +7,7 @@ featured: true
 weight: 1
 heroHeading: 'General'
 heroSubHeading: 'General questions about CodeJam.'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/codejam2.jpg'
 ---
 
 Are total beginners welcome? How many people can be in a team? Do I have

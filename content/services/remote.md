@@ -1,12 +1,12 @@
 ---
-title: 'Mergers'
+title: 'Going remote'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: ''
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
+heroHeading: 'Going remote'
 heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/codejam2.jpg'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
