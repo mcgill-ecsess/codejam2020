@@ -11,7 +11,7 @@ heroBackground: 'images/codejam2.jpg'
 ---
 
 Are total beginners welcome? How many people can be in a team? Do I have
-to be a student at McGill? How old is CodeJam? How many people attend CodeJam?
+to be a student at McGill? Check out our list of general questions, answered:
 
 ## I haven't had much experience coding. Can I still attend?
 
@@ -40,3 +40,7 @@ CodeJam is McGill's _oldest_ student-run hackathon; we are celebrating our 10th 
 ## What do CodeJam projects look like?
 
 Check out our hacker submission from last year on [Devpost](https://codejam2019.devpost.com/).
+
+#### Your question wasn't listed?
+
+Say hi at [codejam@mcgilleus.ca](mailto:codejam@mcgilleus.ca) or DM us on [Facebook](https://www.facebook.com/mcgillcodejam). We'll respond ASAP! 📧

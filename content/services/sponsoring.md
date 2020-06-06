@@ -1,10 +1,10 @@
 ---
-title: 'Sponsoring us'
+title: 'Sponsoring'
 date: 2018-11-28T15:15:26+10:00
 icon: ''
 featured: true
 draft: false
-heroHeading: 'Sponsoring us'
+heroHeading: 'Sponsoring'
 heroSubHeading: 'We can help value your business and prepare it for sale.'
 heroBackground: 'images/codejam2.jpg'
 ---

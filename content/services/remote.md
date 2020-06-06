@@ -5,52 +5,24 @@ icon: ''
 featured: true
 draft: false
 heroHeading: 'Going remote'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroSubHeading: "How we're adjusting to Covid-19."
 heroBackground: 'images/codejam2.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+McGill has announced that the Fall 2020 semester will be offered primarily through remote delivery. Here's what we're doing to accommodate the current situation:
 
-## Ne verba patulosque numen vix libet
+## Will the hackathon be hosted remotely?
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Yes, CodeJam 2020 will proceed remotely. More details will follow shortly! 🔥
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Can I attend CodeJam if I'm not in Montreal?
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+We _encourage_ you to register _even if_ you're not physically in Montreal. You will have full access to the remote hackathon; the only obstacle will be the difference in timezone. Get ready with a cup of coffee! ☕
 
-## Postquam tamen
+## Are company representatives going to be present at CodeJam 2020?
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+We thank all of your sponsors for accommodating the current situation. Although we cannot host an in-person tech fair, rest assured that:
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+- Mentors will be available online to help you with your project
+- Recruiters will host information sessions and fireside chats
+- Workshops will be provided remotely
