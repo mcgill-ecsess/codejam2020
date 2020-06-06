@@ -13,44 +13,30 @@ heroBackground: 'images/codejam2.jpg'
 Are total beginners welcome? How many people can be in a team? Do I have
 to be a student at McGill? How old is CodeJam? How many people attend CodeJam?
 
-## Ne verba patulosque numen vix libet
+## I haven't had much experience coding. Can I still attend?
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Of course! CodeJam is open to hackers of all levels of experience. We encourage you to register and bring an open mind. There will be workshops available that cater to different levels - get ready to learn and have fun!
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## How many people are allowed to be in a team together?
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Each team must have between 1 to 4 members. You will be able to register with your teammates; if you don't have any (yet), we will help you find some! 👍
 
-## Postquam tamen
+## Who is eligible to participate?
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+We welcome all _current_ high-school, CEGEP, college, vocational, and university students.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Do I need to be a current student at McGill?
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+No, you don't need to attend McGill University.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## How many people attend CodeJam?
+
+300 students attended CodeJam last year and 250 students attended CodeJam in 2018.
+
+## How old is CodeJam?
+
+CodeJam is McGill's _oldest_ student-run hackathon; we are celebrating our 10th anniversary this year! 🎉
+
+## What do CodeJam projects look like?
+
+Check out our hacker submission from last year on [Devpost](https://codejam2019.devpost.com/).
