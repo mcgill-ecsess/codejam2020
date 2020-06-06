@@ -5,7 +5,7 @@ icon: ''
 featured: true
 draft: false
 heroHeading: 'Going remote'
-heroSubHeading: "How we're adjusting to Covid-19."
+heroSubHeading: "How we're adjusting to Covid-19"
 heroBackground: 'images/codejam2.jpg'
 ---
 
@@ -26,3 +26,7 @@ We thank all of your sponsors for accommodating the current situation. Although 
 - Mentors will be available online to help you with your project
 - Recruiters will host information sessions and fireside chats
 - Workshops will be provided remotely
+
+#### Your question wasn't listed?
+
+Say hi at [codejam@mcgilleus.ca](mailto:codejam@mcgilleus.ca) or DM us on [Facebook](https://www.facebook.com/mcgillcodejam). We'll respond ASAP! 📧

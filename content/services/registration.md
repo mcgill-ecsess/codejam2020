@@ -5,60 +5,29 @@ icon: ''
 featured: true
 draft: false
 heroHeading: 'Registration'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroSubHeading: 'All about event registration'
 heroBackground: 'images/codejam2.jpg'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+CodeJam will take place in mid-November 2020 and proceed as a remote hackathon. The exact dates have not been set, but please check back periodically for updates:
 
-## Inter pectore totidem
+## When will CodeJam be held this year?
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+Mid-November, but the exact date is not set. Please check back soon!
 
-## Novis hunc qua erat caecisque
+## Where do I register?
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+Registration is not yet open.
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+## When is the deadline to register?
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+The deadline has not been set.
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+## Can I register with a team?
 
-## Statuunt nais inponere tamen duodena aemulus mille
+Yes, you can specify the names of your teammates during registration!
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
+#### Your question wasn't listed?
 
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
+Say hi at [codejam@mcgilleus.ca](mailto:codejam@mcgilleus.ca) or DM us on [Facebook](https://www.facebook.com/mcgillcodejam). We'll respond ASAP! 📧
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?

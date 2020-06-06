@@ -6,7 +6,7 @@ draft: false
 featured: true
 weight: 1
 heroHeading: 'General'
-heroSubHeading: 'General questions about CodeJam.'
+heroSubHeading: 'General questions about CodeJam'
 heroBackground: 'images/codejam2.jpg'
 ---
 
