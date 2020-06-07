@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Registration'
 heroSubHeading: 'All about event registration'
-heroBackground: 'images/codejam2.jpg'
+heroBackground: 'images/codejam11.jpg'
 ---
 
 CodeJam will take place in mid-November 2020 and proceed as a remote hackathon. The exact dates have not been set, but please check back periodically for updates:

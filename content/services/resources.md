@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Resources'
 heroSubHeading: 'A curated list of resources to help you get started'
-heroBackground: 'images/codejam2.jpg'
+heroBackground: 'images/codejam16.jpg'
 ---
 
 Not sure where to begin? The CodeJam team has compiled a list of helpful resources to get you started for CodeJam 2020. Feel free to look through and get yourself adjusted to the content before the hackathon!

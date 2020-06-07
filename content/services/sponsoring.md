@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Sponsoring'
 heroSubHeading: 'Help us bring CodeJam 2020 to life'
-heroBackground: 'images/codejam2.jpg'
+heroBackground: 'images/codejam14.jpg'
 ---
 
 CodeJam would not be possible without the support of our sponsors. We provide a nurturing environment where teams of students experiment with new technologies, brainstorm solutions, and collaborate with experts in the field.

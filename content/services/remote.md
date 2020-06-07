@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Going remote'
 heroSubHeading: "How we're adjusting to Covid-19"
-heroBackground: 'images/codejam2.jpg'
+heroBackground: 'images/codejam12.jpg'
 ---
 
 McGill has announced that the Fall 2020 semester will be offered primarily through remote delivery. Here's what we're doing to accommodate the current situation:
