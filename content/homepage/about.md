@@ -1,7 +1,7 @@
 ---
 title: 'Our Sponsors'
 weight: 2
-background: ''
+background: 'images/codejam2.jpg'
 button: 'Sponsor Us'
 buttonLink: 'services/sponsoring'
 ---
