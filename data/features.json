@@ -1,17 +1,19 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "features/noun_branding_1885335.svg"
+    "title": "Coding",
+    "description": "Build an awesome project with your team over the course of the weekend (and get feedback and mentoring throughout) ",
+    "image": "features/code.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "features/noun_The Process_1885341.svg"
+    "title": "Network",
+    "description": "Meet like-minded hackers and connect with companies looking to hire their next batch of talented developers.",
+    "image": "features/social-network.svg"
+    
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "features/noun_3d modeling_1885342.svg"
+    "title": "Prizes",
+    "description": "Cash prizes are up for grabs! More details about the prize breakdown to be determined.",
+    "image": "features/trophy.svg"
   }
+  
 ]
