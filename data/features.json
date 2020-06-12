@@ -1,12 +1,12 @@
 [
   {
     "title": "Coding",
-    "description": "Build an awesome project with your team over the course of the weekend (and get feedback and mentoring throughout). ",
+    "description": "Build an awesome project with your team over the course of the weekend (and get feedback and mentoring throughout).",
     "image": "features/code.svg"
   },
   {
     "title": "Problem-Solving",
-    "description": "Team up to brainstorm solutions to the problem at hand and apply ideas to come up with effective results",
+    "description": "Team up to brainstorm solutions to the problem at hand and apply ideas to come up with effective results.",
     "image": "features/brain.svg"
   },
   {
