@@ -1,14 +1,30 @@
 [
   {
     "title": "Coding",
-    "description": "Build an awesome project with your team over the course of the weekend (and get feedback and mentoring throughout) ",
+    "description": "Build an awesome project with your team over the course of the weekend (and get feedback and mentoring throughout). ",
     "image": "features/code.svg"
   },
   {
+    "title": "Problem-Solving",
+    "description": "Team up to brainstorm solutions to the problem at hand and apply ideas to come up with effective results",
+    "image": "features/brain.svg"
+  },
+  {
+    "title":"Discover the Engineering World",
+    "description":"Whether it be business insurance, investments, performing arts, or artificial intelligence, the hackathon exposes students to the engineering world.",
+    "image": "features/discover.svg"
+  },
+  {
     "title": "Network",
-    "description": "Meet like-minded hackers and connect with companies looking to hire their next batch of talented developers.",
+    "description": "Meet like-minded hackers and share your knowledge.",
     "image": "features/social-network.svg"
     
+  },
+ 
+  {
+    "title": "Internship Opportunities",
+    "description": "Connect with companies looking to hire the next generation of talented developers.",
+    "image": "features/internship.svg"
   },
   {
     "title": "Prizes",
