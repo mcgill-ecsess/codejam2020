@@ -16,7 +16,7 @@
       padding-left:650px;
       padding-bottom:30px;
     }
-    
+
     .img{
       float:right;
       clear: right;
@@ -24,59 +24,46 @@
 
     .feature{
       background-blend-mode:lighten;
-      
+
     }
 
     .d-title{
       margin-top:20px;
       padding-left:650px;
-      
+
     }
-   
+
   </style>
 </head>
 
 <body>
-  <br>
-  <br>
 
-  <div class="welcome">
- 
-  <!--
-  <img src= "../../images/about-icon.png" alt="computers" class="img" >
-  -->
-  <p class="text"> 
-                  
-    Since being founded in 2010, in association with McGill’s Electrical, 
-    Computer and Software Engineering Student Society, Code.Jam() has become 
-    the largest engineering hackathon at McGill. With over 500 participants, 
-    we strive to provide an environment in which students can learn and grow
-    as the next generation of engineers. Code.Jam() offers an opportunity for 
-    its participants to apply their knowledge and experience to create innovative
-    and effective solutions to real-life problems in various fields. They then have the opportunity to present 
-    their results to a set of industry leading judges and receive helpful and constructive 
-    feedback from experts in the field. 
-  </p>
-  <br>
+  <div id="home" class="container">
+    <p>
+      <br>
+      <br>
+      Since being founded in 2010, in association with McGill’s Electrical, Computer and Software Engineering Student Society,
+      Code.Jam() has become the largest engineering hackathon at McGill. With over 500 participants, we strive to provide an
+      environment in which students can learn and grow as the next generation of engineers. Code.Jam() offers an opportunity
+      for its participants to apply their knowledge and experience to create innovative and effective solutions to real-life
+      problems in various fields. They then have the opportunity to present their results to a set of industry leading judges
+      and receive helpful and constructive feedback from experts in the field.
+      <br>
+      <br>
+    </p>
 
-</div>
-
-<div id="home" class="container">
-  <div class="row">
-    
-    {{ range .Site.Data.features }}
-    <div class="col-12 col-md-6 col-lg-4 mb-2">
-      <div class="feature">
-        {{ if .image }}<div class="feature-image"><img alt="{{ .title }} logo" src="{{ $.Site.BaseURL }}{{ .image }}" /></div> {{ end }}
-        <h2 class="feature-title">{{ .title }}</h2>
-        <div class="feature-content">{{ .description }}</div>
+    <div class="row">
+      {{ range .Site.Data.features }}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {{ if .image }}<div class="feature-image"><img alt="{{ .title }} logo" src="{{ $.Site.BaseURL }}{{ .image }}" /></div> {{ end }}
+          <h2 class="feature-title">{{ .title }}</h2>
+          <div class="feature-content">{{ .description }}</div>
+        </div>
       </div>
+      {{end}}
     </div>
-    {{end}}
   </div>
-</div>
-
-
 </body>
 
 {{ .Content }}
