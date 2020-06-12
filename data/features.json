@@ -1,17 +1,35 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "features/noun_branding_1885335.svg"
+    "title": "Coding",
+    "description": "Build an awesome project with your team over the course of the weekend (and get feedback and mentoring throughout). ",
+    "image": "features/code.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "features/noun_The Process_1885341.svg"
+    "title": "Problem-Solving",
+    "description": "Team up to brainstorm solutions to the problem at hand and apply ideas to come up with effective results",
+    "image": "features/brain.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "features/noun_3d modeling_1885342.svg"
+    "title":"Discover the Engineering World",
+    "description":"Whether it be business insurance, investments, performing arts, or artificial intelligence, the hackathon exposes students to the engineering world.",
+    "image": "features/discover.svg"
+  },
+  {
+    "title": "Network",
+    "description": "Meet like-minded hackers and share your knowledge.",
+    "image": "features/social-network.svg"
+    
+  },
+ 
+  {
+    "title": "Internship Opportunities",
+    "description": "Connect with companies looking to hire the next generation of talented developers.",
+    "image": "features/internship.svg"
+  },
+  {
+    "title": "Prizes",
+    "description": "Cash prizes are up for grabs! More details about the prize breakdown to be determined.",
+    "image": "features/trophy.svg"
   }
+  
 ]
