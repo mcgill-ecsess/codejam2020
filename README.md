@@ -8,7 +8,7 @@ The `hugo` base theme is [Hero](https://themes.gohugo.io/hugo-hero-theme).
 
 ## Getting Started
 
-Install `hugo` following [the instructions here](https://gohugo.io/getting-started/installing/) _or_ use Go 11+:
+Install `hugo` following [the instructions here](https://gohugo.io/getting-started/installing/) _or_ use Go 1.11+:
 
 ```bash
 $ go get github.com/gohugoio/hugo
