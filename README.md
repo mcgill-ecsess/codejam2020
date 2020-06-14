@@ -1,4 +1,4 @@
-# 🚧 WIP - CodeJam 2020 Website
+# CodeJam 2020 Website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd322647-8ba4-4e9f-a569-18c02e887bfb/deploy-status)](https://app.netlify.com/sites/codejam2020/deploys)
 
