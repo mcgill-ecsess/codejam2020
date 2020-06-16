@@ -13,8 +13,9 @@ CodeJam is all about learning and working towards new interests or goals. But ju
 
 ## Bucketlist
 
-- [ ] Project 1
-- [ ] Project 2
+- **Remote learning** - how can you improve the remote learning experience? How can you facilitate the online teaching experience?
+
+- **Automating your home** - what are some chores you dislike? How can you automate them? How could you help roommates divide chores and costs?
 
 #### Need help?
 
