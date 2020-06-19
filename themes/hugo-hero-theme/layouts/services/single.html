@@ -4,15 +4,215 @@
 
 {{ define "main" }}
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" "FAQs" "content" .)}}
-<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
-  <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
-      <div class="service service-single">
-        <div class="content">{{.Content}}</div>
-      </div>
+<head>
+ <style>
+   *{
+    margin: 0;
+    padding: 0;
+   }
+   #header{
+    height:100vh;
+    background-image: url(images/sponsoring.png);
+    background-position: center;
+    background-size:cover;
+
+    }
+    .logo{
+    margin: 30px;
+    width:100px;
+  }
+  .container{
+    margin-right:100px;
+    margin-left: 100px;
+  }
+  .header-text{
+    text-align: center;
+    margin-left:100px;
+    margin-top:140px;
+    max-width:350px;
+  }
+  h1{
+    font-size:34 px;
+  }
+
+  .line-1{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-2{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-3{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-4{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-5{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-6{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-7{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-8{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-9{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-10{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-11{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+  .line-12{
+    width:15px;
+    height:15px;
+    background:#3b45d3;
+    display: inline-block;
+  }
+
+  h5{
+    margin-left:15px;
+    margin-top: 50px;
+
+  }
+ 
+  p{
+    font-size: 15 px;
+    line-height:18px;
+    color: #777;
+    max-width:350px;
+  }
+
+  .header-text button{
+    margin-top:20px;
+    margin-bottom: 60px;
+  }
+  .common-btn{
+    padding:18px 40px;
+    background: transparent;
+    outline: none;
+    border: 2px solid #3b45d3;
+    font-weight:bold;
+    cursor:pointer;
+}
+ </style>
+</head>
+
+<body>
+  <section id="header">
+  <div class="container">
+    <!-- image is messing up the overall layout
+    <img src = "../../images/sponsoring.png" class = "logo">
+    -->
+    <div class="header-text">
+      <h1>Why Sponsor Us</h1>
+        <div class ="line">
+          <span class="line-1"></span>
+          <span class="line-2"></span>
+          <span class="line-3"></span>
+          <span class="line-4"></span>
+          <span class="line-5"></span>
+          <span class="line-6"></span>
+          <span class="line-7"></span>
+          <span class="line-8"></span>
+          <span class="line-9"></span>
+          <span class="line-10"></span>
+          <span class="line-11"></span>
+          <span class="line-12"></span>
+       </div>
+
+       <div class = "reason">
+        
+        <h5 id="reason1">Connect With Talent</h5>
+          <span class="square"></span>
+          <p>
+            Meet the next generation of skilled and passionate 
+            McGill Engineering and Computer Science students. 
+          </p>
+   
+
+         <span class = "reason2">
+           <h5>Promote Your Business</h5>
+           <p>
+             Access McGill's developer community and distribute
+             apparel or accessories to gain recognition, exposure
+             and student interest. 
+           </p>
+         </span>
+
+         <span class ="reason3">
+           <h5>Mentor The Next Generation</h5>
+           <p>
+             Offer insight into your company's product evosystem, 
+             host workshops and provide students with invaluable lessons. 
+           </p>
+         </span>
+
+       </div>
+       <button class="common-btn" href="mailto:codejam@mcgilleus.ca">Become a Sponsor</button>
+       <div class ="line">
+        <span class="line-1"></span>
+        <span class="line-2"></span>
+        <span class="line-3"></span>
+        <span class="line-4"></span>
+        <span class="line-5"></span>
+        <span class="line-6"></span>
+        <span class="line-7"></span>
+        <span class="line-8"></span>
+        <span class="line-9"></span>
+        <span class="line-10"></span>
+        <span class="line-11"></span>
+        <span class="line-12"></span>
+     </div>
+
     </div>
   </div>
-</div>
+  
+</section>
+  
+</body>
+  </div>
+  </section>
+</body>
+
 {{ end }}
 
 {{ define "footer_js" }}
