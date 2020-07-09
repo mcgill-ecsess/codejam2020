@@ -1,9 +1,121 @@
-{{ define "header_css" }}{{ end }}
-{{ define "body_classes" }}page-services-spnsor{{ end }}
-{{ define "header_classes" }}{{ end }}
+<!DOCTYPE html>
+<html lang="en">
 
-{{ define "main" }}
-{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" "FAQs" "content" .)}}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>General - McGill CodeJam 2020</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="https://codejam2020.netlify.app//images/jar.svg">
+
+  
+  
+  <link rel="stylesheet" href="/css/style.min.7c97e2f67b9535ba50758c949e2a04bc3064def6891873451547d5be7ba6b765.css">
+  
+
+  
+
+</head>
+
+<body class='page page-services-spnsor'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-about">
+      <a href="/about/">
+        
+        <span>About</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-faqs">
+      <a href="/services/">
+        
+        <span>FAQs</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-contact">
+      <a href="/contact/">
+        
+        <span>Contact</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-sponsor us">
+      <a href="/services/sponsoring/">
+        
+        <span>Sponsor Us</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div id="wrapper" class="wrapper">
+    <div class='header header-absolute'>
+  <div class="container">
+    <div class="logo">
+      <a href="https://codejam2020.netlify.app/"><img alt="Figurit Homepage" src="https://codejam2020.netlify.app//images/jar.svg" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="https://codejam2020.netlify.app/"><img alt="Figurit Homepage" src="https://codejam2020.netlify.app//images/jar_mobile.svg" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-about">
+      <a href="/about/">
+        
+        <span>About</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-faqs">
+      <a href="/services/">
+        
+        <span>FAQs</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-contact">
+      <a href="/contact/">
+        
+        <span>Contact</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-sponsor us">
+      <a href="/services/sponsoring/">
+        
+        <span>Sponsor Us</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+    
+<div id="hero" class="hero-image hero-image-setheight" style="background-image: url('/images/codejam10.jpg')">
+  <div class="container ">
+    <div class="hero-text">
+      <span class="hero-section">FAQs</span>
+      <h1>General</h1>
+      <p>General questions about CodeJam</p>
+    </div>
+  </div>
+</div>
+  
 <head>
  <style>
    *{
@@ -178,7 +290,7 @@
     text-decoration-style: solid;
   }
 
-  /*features*/
+   
 
   
   .feature-title{
@@ -203,8 +315,7 @@
   .feature-col{
     flex-basis: 25%;
     text-align: center;
-    /**border-style: solid;
-    border-color:#3b45d3;**/
+     
   }
 
   .basic{
@@ -251,9 +362,7 @@
 <body>
   <section id="header">
   <div class="container">
-    <!-- image is messing up the overall layout 
-    <img src = "../../images/sponsoring.png" class = "logo">
-    -->
+    
     <div class="header-text">
       <h1>Why Sponsor Us</h1>
         <div class ="line">
@@ -324,7 +433,7 @@
   </div>
 </section>
   
-  <!--Presentation of the different tiers we offer -->
+  
   <section id="tiers">
     <div class="tier-container">
       <div class="tier-header">
@@ -332,7 +441,7 @@
        </div>
       </div>
 
-      <!--features-->
+      
         <section id="features">
           <div class="feature-row">
             <div class="feature-col">
@@ -412,15 +521,47 @@
   </section>
 </body>
 
-{{ end }}
 
-{{ define "footer_js" }}
-{{ $library := resources.Get "js/libs/library.js" }}
-{{ $services := resources.Get "js/pages/services.js" }}
-{{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
-{{ if .Site.IsServer }}
-  <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
-  {{ else }}
-  <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
-  {{ end }}
-{{ end }}
+  </div>
+
+  <div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <ul class="footer-menu">
+            <li>All icons by flaticon.com</li>
+            <li>Made with ⚡️ by McGill ECSESS</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+
+
+
+
+  <script type="text/javascript" src="/js/services.min.59bfd7d7aaf7e918e4271e11ef3cb4d91e22c83b70437eec78bdffdcd2d51c0a.js"></script>
+  
+
+
+  
+  <script type="text/javascript" src="/js/scripts.min.bf1e1f7ae8e03db5f012356e825843facdff51c0a559cb0d27fe2bbe1db405c2.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+</html>

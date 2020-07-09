@@ -1,7 +1,7 @@
 [
   {
     "title": "Coding",
-    "description": "Build an awesome project with your team over the course of the weekend (and get feedback and mentoring throughout). ",
+    "description": "Get feedback and metoring while you build an awesome project with your team throughout the course of the weekend.",
     "image": "features/code.svg"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "title": "Network",
-    "description": "Meet like-minded hackers and share your knowledge.",
+    "description": "Establish connections by meeting like-minded hackers and gaining knowledge from your peers, and our mentors.",
     "image": "features/social-network.svg"
     
   },
