@@ -44,7 +44,7 @@ Here are a few examples:
 
 If these don't suit your usecase, feel free to look up other boilerplates online!
 
-## 📚 Useful librairies and frameworks
+## 📚 Useful libraries and frameworks
 
 Here are a few libraries that might prove to be useful during the competition! If the official library isn't written in your favourite language, try finding wrappers/bindings for it online!
 
