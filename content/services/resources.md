@@ -27,7 +27,7 @@ If this is your first time at a hackathon or coding past ECSE 202 or COMP 202, i
 
 These are some recommended tools for general hackathon success:
 
-- [Visual Studio Code](https://code.visualstudio.com/) - Your favorite programmer's favorite text editor.
+- [Visual Studio Code](https://code.visualstudio.com/) - Your favourite programmer's favourite text editor.
 - [GitHub Desktop](https://desktop.github.com/) - Easy-to-use Git GUI interface so you don't need to use the command line.
 - [Jupyter Notebooks](http://jupyter.org/install) - Powerful Python tool hosted as a web app useful for writing and organizing Machine Learning code. Very visually appealing and great for running code snippets.
 - [Postman](https://www.getpostman.com/) - REST API testing tool.
@@ -46,7 +46,7 @@ If these don't suit your usecase, feel free to look up other boilerplates online
 
 ## 📚 Useful librairies and frameworks
 
-Here are a few libraries that might prove to be useful during the competition! If the official library isn't written in your favorite language, try finding wrappers/bindings for it online!
+Here are a few libraries that might prove to be useful during the competition! If the official library isn't written in your favourite language, try finding wrappers/bindings for it online!
 
 - [brain.js](https://github.com/BrainJS/brain.js)
 - [CoreNLP](https://github.com/stanfordnlp/CoreNLP)
