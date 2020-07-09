@@ -21,11 +21,7 @@ We _encourage_ you to register _even if_ you're not physically in Montreal. You 
 
 ## Are company representatives going to be present at CodeJam 2020?
 
-We thank all of your sponsors for accommodating the current situation. Although we cannot host an in-person tech fair, rest assured that:
-
-- Mentors will be available online to help you with your project
-- Recruiters will host information sessions and fireside chats
-- Workshops will be provided remotely
+We thank all of your sponsors for accommodating the current situation. Although we cannot host an in-person tech fair, rest assured that: mentors will be available online to help you with your project, recruiters will host information sessions and fireside chats, and workshops will be provided remotely.
 
 #### Your question wasn't listed?
 
