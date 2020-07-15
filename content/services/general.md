@@ -23,7 +23,7 @@ Each team must have between 1 to 4 members. You will be able to register with yo
 
 ## Who is eligible to participate?
 
-We welcome all _current_ high-school, CEGEP, college, vocational, and university students.
+We welcome all _current_ CEGEP, college, vocational, and university students.
 
 ## Do I need to be a current student at McGill?
 
