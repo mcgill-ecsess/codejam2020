@@ -11,7 +11,7 @@ heroBackground: 'images/codejam16.jpg'
 
 Not sure where to begin? The CodeJam team has compiled a list of helpful resources to get you started for CodeJam 2020. Feel free to look through and get yourself adjusted to the content before the hackathon!
 
-## 👶 Basics
+### 👶 Basics
 
 If this is your first time at a hackathon or coding past ECSE 202 or COMP 202, it's probably best that you learn some concepts that'll help ramp you up before!
 
@@ -23,7 +23,7 @@ If this is your first time at a hackathon or coding past ECSE 202 or COMP 202, i
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) - If you want to ramp up quick on machine learning.
 - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) - A beginner-friendly prediction competition.
 
-## 🛠 Recommended software
+### 🛠 Recommended software
 
 These are some recommended tools for general hackathon success:
 
@@ -32,7 +32,7 @@ These are some recommended tools for general hackathon success:
 - [Jupyter Notebooks](http://jupyter.org/install) - Powerful Python tool hosted as a web app useful for writing and organizing Machine Learning code. Very visually appealing and great for running code snippets.
 - [Postman](https://www.getpostman.com/) - REST API testing tool.
 
-## 🏎 Boilerplates
+### 🏎 Boilerplates
 
 Boilerplate code is your best friend for a hackathon! As these are time-limited events, you don't want to spend half your time setting up your project.
 
@@ -44,7 +44,7 @@ Here are a few examples:
 
 If these don't suit your usecase, feel free to look up other boilerplates online!
 
-## 📚 Useful libraries and frameworks
+### 📚 Useful libraries and frameworks
 
 Here are a few libraries that might prove to be useful during the competition! If the official library isn't written in your favourite language, try finding wrappers/bindings for it online!
 
@@ -64,7 +64,7 @@ Here are a few libraries that might prove to be useful during the competition! I
 - [TextBlob](http://textblob.readthedocs.org/)
 - [tracking.js](https://trackingjs.com/)
 
-## 🔌 Useful plug-and-play APIs
+### 🔌 Useful plug-and-play APIs
 
 Here are a few APIs that might prove to be useful during the competition! These are a software engineer's best friend. These will do the heavy lifting for you, so you can focus on working on your product.
 
@@ -80,7 +80,7 @@ Here are a few APIs that might prove to be useful during the competition! These 
 - [Microsoft Azure Cognitive Services](https://azure.microsoft.com/en-ca/services/cognitive-services/)
 - [Microsoft LUIS](https://www.luis.ai/)
 
-## 🔢 Data set resources
+### 🔢 Data set resources
 
 Without data, how are you going to recognize patterns? Here are some resources you can use to quickly find data sets!
 
@@ -110,7 +110,7 @@ If you want to avoid training your own models, you can also find pretrained mode
 - [Model Depot](https://modeldepot.io/)
 - [Model Zoo](https://modelzoo.co/)
 
-## ☁️ Cloud computing
+### ☁️ Cloud computing
 
 Cloud computing is especially useful when you need to do heavy computations (read: Machine Learning). There are a few providers. If this is your first time using them, they usually provide a bunch of free credits for students.
 
@@ -120,7 +120,7 @@ Cloud computing is especially useful when you need to do heavy computations (rea
 - [IBM Watson](https://www.ibm.com/analytics/machine-learning)
 - [Microsoft Azure](https://azure.microsoft.com/en-ca/overview/machine-learning/)
 
-## 🏡 Hosting your application
+### 🏡 Hosting your application
 
 It's not a requirement to host your final submission anywhere (you can demo your project locally), but you can easily host your project on the cloud so you can show it off to anyone with a link.
 
@@ -128,6 +128,6 @@ It's not a requirement to host your final submission anywhere (you can demo your
 - [Heroku](https://www.heroku.com/)
 - [Netlify](https://www.netlify.com/)
 
-## 👩‍🏫 Workshop content
+### 👩‍🏫 Workshop content
 
 Workshops will be announced in September.
