@@ -11,15 +11,15 @@ heroBackground: 'images/codejam12.jpg'
 
 McGill has announced that the Fall 2020 semester will be offered primarily through remote delivery. Here's what we're doing to accommodate the current situation:
 
-## Will the hackathon be hosted remotely?
+### Will the hackathon be hosted remotely?
 
 Yes, CodeJam 2020 will proceed remotely. More details will follow shortly! 🔥
 
-## Can I attend CodeJam if I'm not in Montreal?
+### Can I attend CodeJam if I'm not in Montreal?
 
 We _encourage_ you to register _even if_ you're not physically in Montreal. You will have full access to the remote hackathon; the only obstacle will be the difference in timezone. Get ready with a cup of coffee! ☕
 
-## Are company representatives going to be present at CodeJam 2020?
+### Are company representatives going to be present at CodeJam 2020?
 
 We thank all of your sponsors for accommodating the current situation. Although we cannot host an in-person tech fair, rest assured that: mentors will be available online to help you with your project, recruiters will host information sessions and fireside chats, and workshops will be provided remotely.
 

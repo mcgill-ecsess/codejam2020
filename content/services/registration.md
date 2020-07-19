@@ -11,19 +11,19 @@ heroBackground: 'images/codejam11.jpg'
 
 CodeJam will take place in mid-November 2020 and proceed as a remote hackathon. The exact dates have not been set, but please check back periodically for updates:
 
-## When will CodeJam be held this year?
+### When will CodeJam be held this year?
 
 Mid-November, but the exact date is not set. Please check back soon!
 
-## Where do I register?
+### Where do I register?
 
 Registration is not yet open.
 
-## When is the deadline to register?
+### When is the deadline to register?
 
 The deadline has not been set.
 
-## Can I register with a team?
+### Can I register with a team?
 
 Yes, you can specify the names of your teammates during registration!
 
