@@ -17,7 +17,8 @@
     <div class="col-12 col-md-8">
       {{ .Content }}
       <ul>
-        <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li>
+        <!-- Remove phone number to prevent spam calls -->
+        <!-- <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li> -->
         <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
             {{ .Site.Data.contact.email }}</a></li>
         {{ if .Site.Data.contact.address }}
