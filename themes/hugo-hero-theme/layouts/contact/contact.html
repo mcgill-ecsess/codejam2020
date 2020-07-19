@@ -21,6 +21,8 @@
         <!-- <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li> -->
         <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
             {{ .Site.Data.contact.email }}</a></li>
+        <li><strong>Sponsorship inquiries: </strong><a href="mailto:{{ .Site.Data.contact.sponsorEmail }}">
+            {{ .Site.Data.contact.sponsorEmail }}</a></li>
         {{ if .Site.Data.contact.address }}
         <li><strong>Address: </strong>{{ .Site.Data.contact.address }}</li>
         {{ end }}
