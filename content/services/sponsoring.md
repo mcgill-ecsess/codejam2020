@@ -1,7 +1,7 @@
 ---
 title: 'Sponsoring'
 date: 2018-11-28T15:15:26+10:00
-icon: ''
+type: 'sponsor'
 featured: true
 draft: false
 heroHeading: 'Sponsoring'
@@ -9,19 +9,19 @@ heroSubHeading: 'Help us bring CodeJam 2020 to life'
 heroBackground: 'images/codejam14.jpg'
 ---
 
-CodeJam would not be possible without the support of our sponsors. We provide a nurturing environment where teams of students experiment with new technologies, brainstorm solutions, and collaborate with experts in the field.
+CodeJam would not be possible without the support of our sponsors. They help us provide a nurturing environment where teams of students experiment with new technologies, brainstorm solutions, and collaborate with experts in the field.
 
 
-### Legend
+<!-- ### Legend
 
 This year, we are offering 3 sponsorship tiers with their respective advantages. The following are used to denote the different flavours of advantages:
 
 - 📢 Promotional perks
 - 🏁 Competition bonuses
 - 🤝 Recruitment initiatives
-- 🎉 Ceremonies & presentations
+- 🎉 Ceremonies & presentations -->
 
-## 🥉 Megabyte Tier
+<!-- ## 🥉 Megabyte Tier
 
 - 📢 Logo on our website and participant shirts*
 - 📢 Distribution of promotional materials in participant swag bags
@@ -61,4 +61,4 @@ _All of the above, in addition to..._
 ## Get in touch
 
 Please reach out to [sponsor.codejam@mcgilleus.ca](mailto:sponsor.codejam@mcgilleus.ca) to discuss CodeJam 2020.
-We look forward to working with you! 🤝
+We look forward to working with you! 🤝 -->
