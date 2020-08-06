@@ -1,0 +1,46 @@
+.sponsor-list__logo--terra {
+  width: 55%;
+}
+
+.sponsor-list__logo--giga {
+  width: 33%;
+}
+
+.sponsor-list__logo--mega {
+  width: 25%;
+}
+
+.sap-logo {
+  width: 22%;
+}
+
+.cds-logo {
+  width: 23%;
+}
+
+.sponsor-list__logo--byte {
+  width: 12%;
+}
+
+.sponsor-list__logo--inkind {
+  width: 10%;
+}
+
+.sponsor-list__logo--wrnch {
+  padding-bottom: 2rem;
+}
+
+.sponsor-list__logo--fdm {
+  padding-bottom: 2rem;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  width: 20%;
+}
+
+.sponsor-list__logo--gurus {
+  padding-bottom: 1rem;
+}
+
+.sponsor-list__logo--github {
+  width: 25%;
+}

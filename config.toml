@@ -41,3 +41,6 @@ theme = "hugo-hero-theme"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+[markup.goldmark.renderer]
+unsafe = true

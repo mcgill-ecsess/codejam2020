@@ -1,0 +1,255 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-services-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" "FAQs" "content" .)}}
+
+<head>
+  <style>
+    .sponsor-list__tier {
+      margin: auto;
+      width: 55%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      align-items: center;
+    }
+
+    .sponsor-list__logo {
+      display: inline-block;
+    }
+    .sponsor-list__logo img {
+      width: 100%;
+      object-fit: contain;
+      margin-bottom: 3rem;
+    }
+    /* .sponsor-list__logo img:hover {
+      transform: translate(-5px, -5px);
+      transition: 0.15s ease-in-out all;
+      filter: drop-shadow(5px 5px 1px #333533);
+    } */
+ 
+    .sponsor-list__logo--terra {
+      width: 51%;
+    }
+
+    .sponsor-list__logo--giga {
+      width: 33%;
+    }
+
+    .sponsor-list__logo--mega {
+      width: 25%;
+    }
+
+    .sap-logo {
+      width: 22%;
+    }
+
+    .cds-logo {
+      width: 23%;
+    }
+
+    .sponsor-list__logo--byte {
+      width: 12%;
+    }
+
+    .sponsor-list__logo--inkind {
+      width: 10%;
+    }
+
+    .sponsor-list__logo--wrnch {
+      padding-bottom: 2rem;
+    }
+
+    .sponsor-list__logo--fdm {
+      padding-bottom: 2rem;
+      padding-left: 2.5%;
+      padding-right: 2.5%;
+      width: 20%;
+    }
+
+    .sponsor-list__logo--gurus {
+      padding-bottom: 1rem;
+    }
+
+    .sponsor-list__logo--github {
+      width: 25%;
+    }
+  </style>
+</head>
+
+<body class="page-services-single">  
+  <div class="container pt-4 pt-md-6 pb-4 pb-md-10">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-8">
+        <div class="service service-single">
+          <div class="content">{{.Content}}</div>
+        </div>
+      </div>
+    </div>
+
+  <div
+    class="canva-embed"
+    data-design-id="DAEEDeD9fZA"
+    data-height-ratio="1.2941"
+    style="padding:129.4118% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+    ></div>
+    <script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+    <a 
+    href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEEDeD9fZA&#x2F;view?utm_content=DAEEDeD9fZA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" 
+    target="_blank" rel="noopener"
+    ></a> 
+  </div>
+
+  <div class="container pb-4 pb-md-10">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-8">
+        <div class="service service-single">
+          <h2>Get in touch</h2>  
+          <p>Please reach out to <a href="(mailto:sponsor.codejam@mcgilleus.ca)">sponsor.codejam@mcgilleus.ca</a> to discuss CodeJam 2020. We look forward to working with you!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h1 style="font-size:4em; color: #1c3ed3; text-align:center; padding-bottom: 50px">Our Code.Jam(2019) Sponsors</h1>
+
+  <section class="section" id="sponsors">
+    <div class="sponsor-list">
+      <ul class="sponsor-list__tier">
+        <li class="sponsor-list__logo sponsor-list__logo--terra">
+          <a href="https://wrnch.ai">
+            <img src="../../sponsors/terra/Wrnch.svg" alt="Wrnch logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--terra">
+          <a href="https://intact.ca">
+            <img src="../../sponsors/terra/intact-logo.png" alt="Intact logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--terra">
+          <a href="https://samasource.com">
+            <img src="../../sponsors/terra/Samasource.png" alt="SamaSource logo"/>
+          </a>
+        </li>
+
+      </ul>
+      <ul class="sponsor-list__tier">
+          <li class="sponsor-list__logo sponsor-list__logo--giga">
+            <a href="https://plot.ly/">
+              <img src="../../sponsors/giga/plotly.png" alt="Plotly logo"/>
+            </a>
+          </li>
+          <li class="sponsor-list__logo sponsor-list__logo--giga">
+            <a href="https://www.mistplay.com/">
+              <img src="../../sponsors/mega/Mistplay Logo Black.svg" alt="Mistplay logo"/>
+            </a>
+          </li>
+      </ul>
+      <ul class="sponsor-list__tier">
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.coveo.com/">
+            <img src="../../sponsors/mega/coveo.png" alt="Coveo logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.hopper.com/">
+            <img src="../../sponsors/mega/hopper.png" alt="Hopper logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo cds-logo">
+          <a href="https://www.cirquedusoleil.com/">
+            <img src="../../sponsors/mega/cirque-du-soleil.png" alt="Cirque Du Soleil logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.explorance.com/">
+            <img src="../../sponsors/mega/explorance-logo.png" alt="Explorance logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.genetec.com/">
+            <img src="../../sponsors/mega/Genetec.png" alt="Genetec logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.giro.ca/">
+            <img src="../../sponsors/mega/giro-logo.png" alt="Giro logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.github.com/">
+            <img src="../../sponsors/mega/github.png" alt="GitHub logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.indexexchange.com/">
+            <img src="../../sponsors/mega/IndexExchange.png" alt="IndexExchange logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.mayahtt.com/">
+            <img src="../../sponsors/mega/MayaHTT.png" alt="MayaHTT logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.morganstanley.com/">
+            <img src="../../sponsors/mega/morganstanley.png" alt="Morgan Stanley logo"/>
+          </a>
+        </li>
+        <li class="sponsor-list__logo sap-logo">
+          <a href="https://www.sap.com/">
+            <img src="../../sponsors/mega/SAP.svg" alt="SAP logo"/>
+          </a>
+        </li>
+          <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://lifeatexpedia.com">
+            <img src="../../sponsors/mega/expedia-logo.png" alt="Expedia logo"/>
+          </a>
+        </li>
+        </li>
+          <li class="sponsor-list__logo sponsor-list__logo--mega">
+          <a href="https://www.ssense.com/">
+            <img src="../../sponsors/mega/ssense.svg" alt="SSENSE logo"/>
+          </a>
+        </li>
+      </ul>
+      <ul class="sponsor-list__tier">
+          <li class="sponsor-list__logo sponsor-list__logo--byte">
+            <a href="https://www.ericsson.com/">
+              <img src="../../sponsors/byte/Ericsson.png" alt="Ericsson logo"/>
+            </a>
+          </li>
+          <li class="sponsor-list__logo sponsor-list__logo--byte">
+            <a href="https://www.kronos.com/">
+              <img src="../../sponsors/byte/Kronos.png" alt="Kronos logo"/>
+            </a>
+          </li>
+          <li class="sponsor-list__logo sponsor-list__logo--byte">
+            <a href="https://www.pwc.com/">
+              <img src="../../sponsors/byte/Pwc.svg" alt="PWC logo"/>
+            </a>
+          </li>
+          <li class="sponsor-list__logo sponsor-list__logo--byte">
+            <a href="http://www.squarepoint-capital.com/">
+              <img src="../../sponsors/byte/Squarepoint.jpg" alt="Squarepoint logo"/>
+            </a>
+          </li>
+          <li class="sponsor-list__logo sponsor-list__logo--byte">
+            <a href="https://www.ubisoft.com/">
+              <img src="../../sponsors/byte/Ubisoft.svg" alt="Ubisoft logo"/>
+            </a>
+          </li>
+          <li class="sponsor-list__logo sponsor-list__logo--byte">
+            <a href="https://www.wolfram.com/">
+              <img src="../../sponsors/byte/Wolfram.png" alt="Wolfram logo"/>
+            </a>
+          </li>
+      </ul>
+    </div>
+  </section>
+  
+</body>
+
+{{ end }}
